@@ -1,0 +1,12 @@
+[submodule "rte"]
+	path = rte
+	url = https://github.com/Veams/veams-component-rte.git
+[submodule "video"]
+	path = video
+	url = https://github.com/Veams/veams-component-video.git
+[submodule "picture"]
+	path = picture
+	url = https://github.com/Veams/veams-component-picture.git
+[submodule "youtube-video"]
+	path = youtube-video
+	url = https://github.com/Veams/veams-component-youtube-video.git
